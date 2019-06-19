@@ -1,0 +1,8 @@
+*.o
+*.a
+*.swo
+Doc.txt
+testrun.c
+testrun
+makefile
+libft/
